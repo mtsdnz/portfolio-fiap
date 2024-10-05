@@ -1,8 +1,39 @@
-# Porfolio FIAP
+# Portfolio
+Criado para o CP de webdev na FIAP.
+RM 555683
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stack
 
-Currently, two official plugins are available:
+- **React**: Biblioteca JavaScript para construir interfaces de usuário.
+- **Vite**: Ferramenta de construção para desenvolvimento rápido de front-end.
+- **TailwindCSS**: Framework CSS utilitário para estilização eficiente e responsiva.
+- **React Icons**: Conjunto de ícones para utilizar dentro de componentes React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demonstração
+
+Você pode acessar o portfólio [aqui](#).
+
+## Funcionalidades
+
+- Exibição de projetos anteriores
+- Sessão sobre mim com experiência e habilidades
+- Links diretos para perfis de redes sociais
+- Layout responsivo para dispositivos móveis e desktops
+- Tema escuro e claro
+- Sessao de contato
+
+## Pré-requisitos
+
+Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
+
+- **Node.js** (v14+)
+
+## Instalação
+
+``` bash
+npm install
+```
+
+``` bash
+npm run dev
+```
